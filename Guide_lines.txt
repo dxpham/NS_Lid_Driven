@@ -1,0 +1,6 @@
+This Fortran Code solves 2D lid-driven cavity flow: using finite difference schemes combined with fractional steps to de-couple the equations. 
+- The Make file is provided.
+- The codes blas of its own to solve a linear Elipptic problem at each step.
+- The solution is given out by solution.dat
+- Plot the solutions at each time step: plot-sol.gnu in Gnuplot.
+- Animate using gnu_animate.gp
